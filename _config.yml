@@ -1,0 +1,28 @@
+name: goldinthesystem
+favicon: null
+layout_spectrum: 0.8853657022118568
+typography_spectrum: 0.2931882415432483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5683651661965996
+  lightness: 0.7126026961486787
+  saturation: 0.5112012107856572
+  rhythmicContrast: 0.3554056740831584
+purpose: []
